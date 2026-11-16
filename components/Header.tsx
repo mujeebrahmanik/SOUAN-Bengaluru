@@ -20,7 +20,7 @@ function Wordmark({ tone }: { tone: "light" | "dark" }) {
         SOUAN
       </span>
       <span className={`mt-1.5 text-[9px] font-medium uppercase tracking-[0.36em] ${sub}`}>
-        Luxury Spa — Sun City
+        Luxury Spa — Kalyan Nagar · Blr.
       </span>
     </a>
   );
